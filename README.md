@@ -10,9 +10,9 @@ There are a few things we can see from these charts. For one we can compare the 
 
 This brings us to our secondary goal of our challenge which was to refactor our macro to make it cleaner and faster so it is able to handle bigger data sets. We did this by reformatting our arrays to make them more efficient using fewer steps, less memory and improved logic. After refactoring our code we were able to cut the run time to less than 30% of the run time. In addition, we can more easily add additional tickers into our array for further analysis. Below are the final run times we ended up with using our refactored macro.
 
-![](refactored analysis_2018_v2.PNG)
+![screenshot](refactored analysis_2018_v2.PNG)
 
-![](refactored analysis_2017_v2.PNG)
+![screenshot](refactored analysis_2017_v2.PNG)
                   
 After refactoring our macro we can confirm that Steve is ready for some real analysis on hundreds of stocks to find his parents the best options! With a succesful refactor you are able to perform more analysis in the future and control
   
